@@ -1,0 +1,7 @@
+{
+  "name": "myitops",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

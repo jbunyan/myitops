@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "myitops",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
